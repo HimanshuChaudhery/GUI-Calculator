@@ -50,7 +50,7 @@ python main.py
 
 ## 📸 Screenshots
 
-![GUI-calculator](https://github.com/HimanshuChaudhery/GUI-Calculator/blob/main/Calculator.jpg)
+![GUI-calculator](./Calculator.jpg)
 
 ---
 
